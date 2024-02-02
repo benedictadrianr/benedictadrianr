@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ben, I'm an aspiring Frontend Developer who's looking for a job opportunity<br><br>- 🔭 Currently looking for jobs<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I make projects with my skills</p>
+<p align="left">I'm Ben, I'm an aspiring Frontend Developer who's looking to start my career in Frontend area of work<br><br>- 🔭 Currently looking for jobs<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I make projects with my skills</p>
 
 ###
 
