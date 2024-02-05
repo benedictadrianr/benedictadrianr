@@ -1,5 +1,5 @@
 <div align="center">
-  [<img src="https://github.com/{{ benedictadrianr }}.png" width="60px;"  />]
+  [<img src="https://github.com/benedictadrianr.png" width="60px;"  />]
 </div>
 
 ###
