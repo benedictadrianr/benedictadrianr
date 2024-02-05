@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/benedictadrianr/">
+  <a target="blank_" href="https://www.linkedin.com/in/benedictadrianr/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/benedictadrianr?igsh=bG9ua3NsNHE1MDFp">
+  <a target="blank_" href="https://www.instagram.com/benedictadrianr?igsh=bG9ua3NsNHE1MDFp">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=D62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.facebook.com/benben.frkd/">
+  <a target="blank_" href="https://www.facebook.com/benben.frkd/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=316FF6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
